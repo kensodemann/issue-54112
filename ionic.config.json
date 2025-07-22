@@ -1,0 +1,7 @@
+{
+  "name": "issue-54112",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
